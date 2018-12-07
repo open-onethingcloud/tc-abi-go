@@ -27,8 +27,8 @@ import (
 
 	"reflect"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"go-ethereum/common"
+	"go-ethereum/crypto"
 )
 
 const jsondata = `
